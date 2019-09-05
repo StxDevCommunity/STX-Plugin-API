@@ -1,0 +1,14 @@
+target
+.idea
+*.iml
+pom.xml.releaseBackup
+release.properties
+pom.xml.0.bak
+pom.xml.1.bak
+pom.xml.2.bak
+pom.xml*.bak
+pom.xml.bak.*
+tnco
+tnei
+/.classpath
+/.project
