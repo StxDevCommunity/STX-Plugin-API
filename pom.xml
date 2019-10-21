@@ -18,7 +18,7 @@
 		<secutix2.parent-plugin.version>1.9</secutix2.parent-plugin.version>
 
 		<version.guava>24.0-jre</version.guava>
-		<version.fasterxml-jackson>2.9.4</version.fasterxml-jackson>
+		<version.fasterxml-jackson>2.10.0</version.fasterxml-jackson>
 		<version.commons-codec>1.11</version.commons-codec>
 		<version.commons-io>2.6</version.commons-io>
 
